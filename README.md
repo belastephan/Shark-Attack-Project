@@ -1,8 +1,10 @@
 # projeto shark attack
 
+<img align="right" src="https://i.pinimg.com/originals/a2/7d/b5/a27db560c85c50c53b53648c234d82e3.jpg" alt="" width="201" height="201" />
 
-A pergunta inicial do projeto tem como objetivo descobrir em que pais tem o maior n˙mero de ataques de tubar„o. E na sequencia realizar uma comparaÁ„o do perfil do comportamento dos ataques neste paÌs e nos demais paÌses tambÈm.
 
-Com a importaÁ„o da biblioteca pandas e da matplotlib.pyplot e utilizando conceitos de filtro, gr·ficos e manipulaÁ„o de dataframes foi possivel realizar as analises e chegar a conclusao que o paÌs com o maior numero de ataques È o USA.
+A pergunta inicial do projeto tem como objetivo descobrir em que pais tem o maior n√∫mero de ataques de tubar√£o. E na sequencia realizar uma compara√ß√£o do perfil do comportamento dos ataques neste pa√≠s e nos demais pa√≠ses tamb√©m.
+
+Com a importa√ß√£o da biblioteca pandas e da matplotlib.pyplot e utilizando conceitos de filtro, gr√°ficos e manipula√ß√£o de dataframes foi possivel realizar as analises e chegar a conclusao que o pa√≠s com o maior numero de ataques √© o USA.
 
 
