@@ -23,3 +23,6 @@ Raiana Rocha (https://www.linkedin.com/in/raiana-rocha/)
 ## Songs listened while programming 🎼: 
 
 https://www.youtube.com/watch?v=ApXoWvfEYVU
+
+https://www.youtube.com/watch?v=qiqT0rJ7zIo
+
