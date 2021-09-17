@@ -1,6 +1,10 @@
-# Projeto Shark Attack
+#  Shark Attack Project
 
 <img align="right" src="https://i.pinimg.com/originals/a2/7d/b5/a27db560c85c50c53b53648c234d82e3.jpg" alt="" width="201" height="201" />
+
+## Status Project: Completed
+
+## Project Description: 
 
 A pergunta inicial do projeto tem como objetivo descobrir em que país tem o maior número de ataques de tubarão. Na sequência entender o perfil de ataques de tubarão neste país e realizar uma comparação do perfil do comportamento de ataques nos demais países também.
 
