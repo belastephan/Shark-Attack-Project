@@ -16,7 +16,7 @@ In order to achieve this objective, it was necessary to import some libraries li
 It was concluded that the USA are the country that have the highest shark attacks. Most of these attacks was caused while people were surfing and swimming in this order and most of them were unprovoked.Comparing with the other countries, the shark attack pattern is the same. The only difference between both is the order of the shark attack causes. In the other countries most of the attacks were caused while people were swimming and surfing in this order.
 
 
-## Contributor
+## Thanks
 
 Raiana Rocha (https://www.linkedin.com/in/raiana-rocha/)
 
