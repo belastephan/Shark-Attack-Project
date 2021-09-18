@@ -7,14 +7,16 @@
 Completed
 
 ## Project Description: 
+The project’s initial question has the aim to find out which country has the highest number of shark attack. Besides, understanding variable trends in shark attacks in that country in comparison to other countries.
 
-A pergunta inicial do projeto tem como objetivo descobrir em que país tem o maior número de ataques de tubarão. Na sequência entender o perfil de ataques de tubarão neste país e realizar uma comparação do perfil do comportamento de ataques nos demais países também.
+## Steps:
+In order to achieve this objective, it was necessary to import some libraries like pandas and matplotlib.pyplot, and also using dataframe’s manipulation concepts (filter, cleanning, order etc) and graphs analysis.
 
-Com a importação das bibliotecas pandas e matplotlib.pyplot, e ainda, utilizando os conceitos de manipulação de dataframes (filtro, limpeza de base, ordenação entre outros) e criação de gráficos foi possível realizar as análises.
+## Conclusion:
+It was concluded that the USA are the country that have the highest shark attacks. Most of these attacks was caused while people were surfing and swimming in this order and most of them were unprovoked.
 
-Foi concluído que o país com o maior número de ataques é o USA e que estes ataques aconteceram em sua maioria enquanto as pessoas estavam realizando as atividades de surf e natação nestas ordens, bem como na maior parte delas também foram ataques não provocados pelos banhistas. 
+Comparing with the other countries, the shark attack pattern is the same. The only difference between both is the order of the shark attack causes. In the other countries most of the attacks were caused while people were swimming and surfing in this order.
 
-Nos demais países o perfil de ataque é o mesmo, tanto no tipo de atividade que estava sendo realizada pelos banhistas quanto no tipo de motivo. A única diferença é que há uma inversão na ordem entre os dois primeiros lugares das atividades que estavam sendo realizadas.
 
 ## Contributor:
 
